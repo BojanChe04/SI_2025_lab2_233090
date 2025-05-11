@@ -13,3 +13,8 @@ Bojana Kostoska 233090
 Потребни се минимум 5 тест случаи
 
 ![image](https://github.com/user-attachments/assets/97d67fd6-dfc0-4e03-98a4-049881719d68)
+
+5. Multiple Condition критериум
+
+![image](https://github.com/user-attachments/assets/077c8b9f-327c-4ad4-8bdc-a0450ecc2f7d)
+
