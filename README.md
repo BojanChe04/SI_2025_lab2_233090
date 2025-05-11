@@ -16,5 +16,6 @@ Bojana Kostoska 233090
 
 5. Multiple Condition критериум
 
-![image](https://github.com/user-attachments/assets/077c8b9f-327c-4ad4-8bdc-a0450ecc2f7d)
+![image](https://github.com/user-attachments/assets/c12cd9ba-b133-46b8-8851-409df381a6b0)
+
 
