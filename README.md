@@ -10,4 +10,6 @@ Bojana Kostoska 233090
 
 4. Тест случаи според every statement
 
+Потребни се минимум 5 тест случаи
+
 ![image](https://github.com/user-attachments/assets/97d67fd6-dfc0-4e03-98a4-049881719d68)
