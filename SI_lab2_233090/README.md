@@ -4,7 +4,8 @@ Bojana Kostoska 233090
 2. Control Flow Graph
 
 
-![cfg](https://github.com/user-attachments/assets/8f554ab4-9d46-486b-aa98-839c43369985)
+![GTF](https://github.com/user-attachments/assets/ab906736-2d4c-4f42-9576-483da67182d3)
+
 
 3. Цикломатската комплексност на овој код е 9. Цикломатска комплексност = број на предикатни јазли + 1, каде број на предикатни јазли е 8. Следува 8+1=9
 
